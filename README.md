@@ -13,6 +13,6 @@ TODO:
     5. Optimizing CUDA kernels
     6. Scaling up
 2. LLM serving and inference
-    1. vLLM
+    1. vLLM(currently)
     2. FashionAttention
     3. Infer
