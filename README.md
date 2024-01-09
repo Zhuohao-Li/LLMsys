@@ -15,4 +15,4 @@ TODO:
 2. LLM serving and inference
     1. vLLM(currently)
     2. FashionAttention
-    3. Infer
+    3. PowerInfer
