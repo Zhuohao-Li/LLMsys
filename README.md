@@ -16,3 +16,6 @@ TODO:
     1. vLLM(currently)
     2. FashionAttention
     3. PowerInfer
+
+## vLLM
+In `serving/vllm_eva`, I created two scripts to test call vllm locally and remotely by API (TODO).
