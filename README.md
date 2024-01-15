@@ -13,9 +13,19 @@ TODO:
     5. Optimizing CUDA kernels
     6. Scaling up
 2. LLM serving and inference
-    1. vLLM(currently)
+    1. vLLM(done)
     2. FashionAttention
     3. PowerInfer
+    4. FastTransformer
+    5. TensoreRT-LLM
 
 ## vLLM
 In `serving/vllm_eva`, I created two scripts to test call vllm locally and remotely by API (TODO).
+
+## Flash-Attention and Flash-Attention-2
+
+Related article: [https://zhuanlan.zhihu.com/p/639228219](https://zhuanlan.zhihu.com/p/639228219)
+
+## TensorRT-LLM
+
+
